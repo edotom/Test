@@ -48,10 +48,11 @@
         <String type="System.String">![CDATA[AdvancedPictureAndPDFToConnectivityOCR]]</String>
         <String type="System.String">![CDATA[RemoveAFDepndencyAndChangeManagmentLibraryLocation]]</String>
       </ConverterIDs>
-      <Version type="System.String">![CDATA[0017.0005.0000]]</Version>
+      <Version type="System.String">![CDATA[0017.0006.0000]]</Version>
       <VersionHistory>
         <String type="System.String">![CDATA[7.5.0.138]]</String>
       </VersionHistory>
+      <ConverterHistory />
     </VersionConverterInfo>
     <CompileUnit type="Studio.Dom.CompileUnit">
       <ReferencedAssemblies>
