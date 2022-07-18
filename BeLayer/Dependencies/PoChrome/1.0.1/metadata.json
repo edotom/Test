@@ -1,0 +1,13 @@
+{
+  "Id": "PoChrome",
+  "Description": "ver 1",
+  "Authors": [
+    "EMORENO-T480\\EdgarM"
+  ],
+  "Version": "1.0.1",
+  "Dependencies": [],
+  "Assemblies": [
+    "dproj_MSi20MchRwpRsitqDVeww"
+  ],
+  "MetadataVersion": 1
+}
